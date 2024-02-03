@@ -1,0 +1,20 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Luis"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "''"
+secondaryLogo = ""
+description = "Personal webpage of Luis Mayo"
+
+[author]
+name = "Luis Mayo"
+bio = "I am a computer engineer and front-end developer who likes to make tiny toy projects on my free time. "
+image = "wallace.png"
+headline = "Software engineer who likes to make little projects from time to time"
+links = [ { email = "mailto:luismayovalbuena@outlook.es" }, { comment = "https://matrix.to/#/@tluigi003:matrix.org" }, { github = "https://github.com/LuisMayo/" }, { ko-fi = "https://ko-fi.com/luismayo" }, { telegram = "https://t.me/TLuigi003" } ]
